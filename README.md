@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python backend projects.
 - 📫 How to reach me @linkedin- https://www.linkedin.com/in/sanskriti-verma-462522215/
                       @gmail - sanskritiverma.1807@gmail.com
-- 📝 Portfolio - https://sanskriti-verma-portfolio.onrender.com/
+
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
